@@ -126,8 +126,6 @@ StaticSiteMenu/
    ```
 3. 环境配置
    ```bash
-   # 复制或重命名 config.example.yaml 为 config.yaml
-   cp config.example.yaml config.yaml
    # 复制或重命名 .env.example 为 .env
    cp .env.example .env
    ```
@@ -172,17 +170,17 @@ StaticSiteMenu/
 
 ## 功能列表
 
-- [x]纯前端部署
-- [x]卡片式布局
-- [x]后台管理
-- [x]分类、标签功能
-- [x]主题切换
-- [x]高度自定义
-- [x]页面：关于我们
-- [x]页面：友情链接
-- [x]悬浮工具
-- [x]用户角色系统
-- [x]集成 Echarts
+- [x] 纯前端部署
+- [x] 卡片式布局
+- [x] 后台管理
+- [x] 分类、标签功能
+- [x] 主题切换
+- [x] 高度自定义
+- [x] 页面：关于我们
+- [x] 页面：友情链接
+- [x] 悬浮工具
+- [x] 用户角色系统
+- [x] 集成 Echarts
 - [ ] 多语言支持
 - [ ] 更多部署方式
 - [ ] 数据管理（导入/导出）

@@ -1,8 +1,8 @@
 # 站点配置
 site:
-  title: "网站导航"
-  description: "个人网站导航中心。"
-  keywords: "网站导航,网址导航,网站推荐"
+  title: "FlecMENU"
+  description: "您的个人网站导航中心，提供精选网站分类、快速访问和个性化收藏功能，让您的网络浏览更加高效便捷。"
+  keywords: "网站导航,网址导航,网站收藏,网站分类,快速访问,个人导航,网络导航,网站大全,网址大全,网站推荐"
   author: "M.Talen"
   language: "zh-CN"
   favicon: "/favicon.png"
@@ -12,26 +12,26 @@ about:
   # 社交媒体
   social:
     - name: Email
-      url: mailto:your-email@example.com
-      url_text: "your-email@example.com"
+      url: mailto:talen2004@163.com
+      url_text: "talen2004@163.com"
       icon: "fas fa-envelope"
     - name: 微信
-      url_text: "your-wechat-id"
+      url_text: "f18596373623"
       icon: "fab fa-weixin"
       copy: true
-    - name: Twitter
-      url: https://twitter.com/your-username
-      url_text: "@your-username"
+    - name: X
+      url: https://x.com/Talen_Flec
+      url_text: "@Talen_Flec"
       icon: "fab fa-twitter"
 
   # 订阅关注
   follow:
     - name: Github
-      url: "https://github.com/your-username/your-repo"
+      url: "https://github.com/talen8"
       icon: "fab fa-github"
       color: "#000000"
     - name: Twitter
-      url: "https://twitter.com/your-username"
+      url: "https://twitter.com/flecnav"
       icon: "fab fa-twitter"
       color: "#000000"
     - name: 微信公众号
@@ -39,7 +39,7 @@ about:
       icon: "fab fa-weixin"
       color: "#000000"
     - name: Bilibili
-      url: "https://space.bilibili.com/your-username"
+      url: "https://space.bilibili.com/479887195/"
       icon: "fab fa-bilibili"
       color: "#000000"
   
@@ -54,16 +54,16 @@ about:
 
 # 页脚展示
 footer:
-  copyright_runtime: 2024
+  copyright_runtime: 2025
   powered_by: "FlecMENU"
   friendly_links:
     enable: true
     quantity: 5
   links:
-    - name: 您的ICP备案号
+    - name: 鲁ICP备2023049269号
       url: https://beian.miit.gov.cn/
-    - name: 您的公安备案号
-      url: http://www.beian.gov.cn/
+    - name: 鲁公网安备37088102000500号
+      url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37088102000500
 
 # 悬浮组件
 floating_button:
@@ -74,18 +74,15 @@ floating_button:
     - name: 微信
       img: "/images/wechat.png"
       icon: "fab fa-weixin"
-    - name: QQ
-      url: "#"
-      icon: "fab fa-qq"
     - name: 邮箱
-      url: "#"
+      url: mailto:talen2004@163.com
       icon: "fas fa-envelope"
 
 # 头部导航
 header:
   items:
     - name: 博客
-      url: https://your-blog-url.com
+      url: https://blog.talen.top
       icon: "fas fa-blog"
     - name: 关于
       url: /about
@@ -101,4 +98,5 @@ search_engine:
     url: "https://www.bing.com/search?q="
   # - name: "google"
   #   placeholder: "Google 搜索"
-  #   url: "https://www.google.com/search?q=" 
+  #   url: "https://www.google.com/search?q="
+

@@ -14,9 +14,6 @@ dist-ssr
 *.local
 .env
 
-# 配置文件
-config.yaml
-
 # IDE 和编辑器配置
 .vscode/*
 !.vscode/settings.json
