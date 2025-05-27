@@ -162,10 +162,10 @@ StaticSiteMenu/
 
 ## 使用示例
 
-| 网站名称 |                                     网站地址                                     | 说明 |
-| :------: | :------------------------------------------------------------------------------: | :--: |
-| FlecMENU |                 [https://menu.talen.top](https://menu.talen.top)                 | 生产 |
-| FlecMENU | [https://staticsitemenu-demo.pages.dev/](https://staticsitemenu-demo.pages.dev/)<br>[https://staticsitemenu-demo.talen.top/](https://staticsitemenu-demo.talen.top/) | 演示 |
+|    网站名称    |                                                                               网站地址                                                                               | 说明 |
+| :------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
+|    FlecMENU    |                                                           [https://menu.talen.top](https://menu.talen.top)                                                           | 生产 |
+| StaticSiteMenu-Demo | [https://staticsitemenu-demo.pages.dev/](https://staticsitemenu-demo.pages.dev/)<br>[https://staticsitemenu-demo.talen.top/](https://staticsitemenu-demo.talen.top/) | 演示 |
 
 上方展示使用本项目的网站演示或复刻项目，如果你想在上方展示，请点击 <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=submit-site---.md">此处提交</a>。
 
