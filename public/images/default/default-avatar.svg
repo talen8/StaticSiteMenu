@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆形 -->
+  <circle cx="100" cy="100" r="100" fill="#E5E7EB"/>
+  <!-- 用户图标 -->
+  <circle cx="100" cy="85" r="35" fill="#9CA3AF"/>
+  <path d="M100 130C133.137 130 160 156.863 160 190V200H40V190C40 156.863 66.8629 130 100 130Z" fill="#9CA3AF"/>
+</svg> 

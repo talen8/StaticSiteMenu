@@ -1,0 +1,17 @@
+/* 引入Tailwind CSS基础样式 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 全局样式设置 */
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 基础布局样式 */
+body {
+  margin: 0;
+  min-height: 100vh;
+}

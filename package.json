@@ -1,0 +1,68 @@
+{
+  "name": "StaticSiteMenu",
+  "private": true,
+  "version": "1.0.0",
+  "description": "一个现代化的个人网站导航中心，让网络浏览更加高效便捷。",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.7",
+    "cropperjs": "^2.0.0",
+    "echarts": "^5.6.0",
+    "js-yaml": "^4.1.0",
+    "pinia": "^3.0.2",
+    "vue": "^3.5.13",
+    "vue-cropperjs": "^5.0.0",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@eslint/css": "^0.8.1",
+    "@eslint/js": "^9.27.0",
+    "@eslint/json": "^0.12.0",
+    "@eslint/markdown": "^6.4.0",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "autoprefixer": "^10.4.17",
+    "eslint": "^9.27.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-prettier": "^5.4.0",
+    "eslint-plugin-vue": "^10.1.0",
+    "globals": "^16.2.0",
+    "postcss": "^8.4.35",
+    "prettier": "^3.5.3",
+    "tailwindcss": "^3.4.1",
+    "terser": "^5.39.2",
+    "vite": "^6.3.5"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "M.Talen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talen8/StaticSiteMenu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/talen8/StaticSiteMenu/issues"
+  },
+  "homepage": "https://github.com/talen8/StaticSiteMenu#readme",
+  "keywords": [
+    "vue",
+    "vite",
+    "tailwindcss",
+    "website",
+    "navigation",
+    "bookmarks",
+    "static",
+    "menu"
+  ]
+}

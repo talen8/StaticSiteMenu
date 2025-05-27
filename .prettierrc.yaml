@@ -1,0 +1,13 @@
+# 每行最多字符数量，超出换行(默认80)
+printWidth: 100
+# 缩进空格数，默认2个空格
+tabWidth: 2
+# 指定缩进方式，空格或tab，默认false，即使用空格
+useTabs: false
+# 使用分号
+semi: false
+# 使用单引号 (true:单引号;false:双引号)
+singleQuote: true
+# 末尾使用逗号
+trailingComma: none
+

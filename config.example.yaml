@@ -1,0 +1,104 @@
+# 站点配置
+site:
+  title: "网站导航"
+  description: "个人网站导航中心。"
+  keywords: "网站导航,网址导航,网站推荐"
+  author: "M.Talen"
+  language: "zh-CN"
+  favicon: "/favicon.png"
+
+# 关于页面
+about:
+  # 社交媒体
+  social:
+    - name: Email
+      url: mailto:your-email@example.com
+      url_text: "your-email@example.com"
+      icon: "fas fa-envelope"
+    - name: 微信
+      url_text: "your-wechat-id"
+      icon: "fab fa-weixin"
+      copy: true
+    - name: Twitter
+      url: https://twitter.com/your-username
+      url_text: "@your-username"
+      icon: "fab fa-twitter"
+
+  # 订阅关注
+  follow:
+    - name: Github
+      url: "https://github.com/your-username/your-repo"
+      icon: "fab fa-github"
+      color: "#000000"
+    - name: Twitter
+      url: "https://twitter.com/your-username"
+      icon: "fab fa-twitter"
+      color: "#000000"
+    - name: 微信公众号
+      url: "#"
+      icon: "fab fa-weixin"
+      color: "#000000"
+    - name: Bilibili
+      url: "https://space.bilibili.com/your-username"
+      icon: "fab fa-bilibili"
+      color: "#000000"
+  
+  # 赞赏方式
+  reward:
+    - name: 微信
+      img: "/images/reward/rewardWechatQR.png"
+    - name: 支付宝
+      img: "/images/reward/rewardAlipayQR.png"
+    - name: 爱发电
+      img: "/images/reward/rewardAfdianQR.png"
+
+# 页脚展示
+footer:
+  copyright_runtime: 2024
+  powered_by: "FlecMENU"
+  friendly_links:
+    enable: true
+    quantity: 5
+  links:
+    - name: 您的ICP备案号
+      url: https://beian.miit.gov.cn/
+    - name: 您的公安备案号
+      url: http://www.beian.gov.cn/
+
+# 悬浮组件
+floating_button:
+  enable: true
+  go_to_top: true
+  theme_switching: true
+  items:
+    - name: 微信
+      img: "/images/wechat.png"
+      icon: "fab fa-weixin"
+    - name: QQ
+      url: "#"
+      icon: "fab fa-qq"
+    - name: 邮箱
+      url: "#"
+      icon: "fas fa-envelope"
+
+# 头部导航
+header:
+  items:
+    - name: 博客
+      url: https://your-blog-url.com
+      icon: "fas fa-blog"
+    - name: 关于
+      url: /about
+      icon: "fas fa-info"
+
+# 搜索引擎
+search_engine:
+  - name: "百度"
+    placeholder: "百度一下，你就知道"
+    url: "https://www.baidu.com/s?wd="
+  - name: "bing"
+    placeholder: "使用 Microsoft 必应进行搜索"
+    url: "https://www.bing.com/search?q="
+  # - name: "google"
+  #   placeholder: "Google 搜索"
+  #   url: "https://www.google.com/search?q=" 
