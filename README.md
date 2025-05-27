@@ -2,7 +2,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/talen8/StaticSiteMenu">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,14 +11,14 @@
   <p align="center">
     一个现代化的个人网站导航中心，让网络浏览更加高效便捷。
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/talen8/StaticSiteMenu"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://staticsitemenu-demo.pages.dev/">查看演示 🎯</a>
+    <a href="https://staticsitemenu-demo.talen.top/">查看演示 🎯</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Bug 报告 🐞</a>
+    <a href="https://github.com/talen8/StaticSiteMenu/issues/new?labels=bug&template=bug-report---.md">Bug 报告 🐞</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">功能需求 🚀</a>
+    <a href="https://github.com/talen8/StaticSiteMenu/issues/new?labels=enhancement&template=feature-request---.md">功能需求 🚀</a>
   </p>
 </div>
 
@@ -50,7 +50,9 @@
 
 ## 关于项目
 
-[![产品截图][product-screenshot]](https://example.com)
+![网站前台](/images/front-page.png)
+
+![网站后台](/images/backend-page.png)
 
 在当今信息爆炸的时代，我们每天都需要访问大量的网站和资源。StaticSiteMenu 应运而生，旨在为用户提供一个现代化的个人网站导航中心，让网络浏览更加高效便捷。
 
