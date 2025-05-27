@@ -138,8 +138,9 @@ StaticSiteMenu/
    VITE_SUPABASE_ANON_KEY = your - anon - key
    VITE_SUPABASE_SERVICE_ROLE_KEY = your - service - role - key
    ```
-6. 更多个性化配置修改 config.yaml 文件
-7. 启动项目
+6. 复制 `schema.sql` 文件里的内容在 Supabase 的 SQL Editor 执行
+7. 更多个性化配置修改 config.yaml 文件
+8. 启动项目
 
    开发环境：
 
