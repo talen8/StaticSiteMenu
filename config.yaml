@@ -1,6 +1,6 @@
 # 站点配置
 site:
-  title: "FlecMENU"
+  title: "StaticSiteMenu"
   description: "您的个人网站导航中心，提供精选网站分类、快速访问和个性化收藏功能，让您的网络浏览更加高效便捷。"
   keywords: "网站导航,网址导航,网站收藏,网站分类,快速访问,个人导航,网络导航,网站大全,网址大全,网站推荐"
   author: "M.Talen"

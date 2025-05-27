@@ -7,13 +7,7 @@
   },
 
   // ESLint 设置
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact",
-    "vue"
-  ],
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact", "vue"],
 
   // Prettier 配置
   "prettier.singleQuote": true,
@@ -21,5 +15,8 @@
   "prettier.trailingComma": "es5",
   "prettier.printWidth": 100,
   "prettier.tabWidth": 2,
-  "prettier.endOfLine": "auto"
+  "prettier.endOfLine": "auto",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

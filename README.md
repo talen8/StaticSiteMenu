@@ -14,7 +14,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">查看演示 🎯</a>
+    <a href="https://staticsitemenu-demo.pages.dev/">查看演示 🎯</a>
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Bug 报告 🐞</a>
     &middot;
@@ -160,9 +160,10 @@ StaticSiteMenu/
 
 ## 使用示例
 
-| 网站名称 |                     网站地址                     | 说明 |
-| :------: | :----------------------------------------------: | :--: |
-| FlecMENU | [https://menu.talen.top](https://menu.talen.top) | 演示 |
+| 网站名称 |                                     网站地址                                     | 说明 |
+| :------: | :------------------------------------------------------------------------------: | :--: |
+| FlecMENU |                 [https://menu.talen.top](https://menu.talen.top)                 | 生产 |
+| FlecMENU | [https://staticsitemenu-demo.pages.dev/](https://staticsitemenu-demo.pages.dev/)<br>[https://staticsitemenu-demo.talen.top/](https://staticsitemenu-demo.talen.top/) | 演示 |
 
 上方展示使用本项目的网站演示或复刻项目，如果你想在上方展示，请点击 <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=submit-site---.md">此处提交</a>。
 
@@ -200,10 +201,10 @@ StaticSiteMenu/
 4. 推送到分支 (`git push origin feature/feature-name`)
 5. 开启 Pull Request
 
-### 主要贡献者：
+### 主要贡献者
 
-<a href="https://github.com/othneildrew/StaticSiteMenu/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/StaticSiteMenu" alt="contrib.rocks image" />
+<a href="https://github.com/talen8/StaticSiteMenu/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=talen8/StaticSiteMenu" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
