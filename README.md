@@ -159,6 +159,26 @@ StaticSiteMenu/
    npm run preview
    ```
 
+### 常见问题
+
+**1. 部署到 Nginx 服务器访问非根目录时，出现 404 Not Found 问题。**
+
+在 Nginx 配置文件中添加如下配置：
+
+```conf
+server {
+    location / {
+        try_files $uri $uri/ /index.html;  # 关键配置
+    }
+
+    # 可选：配置静态资源缓存
+    location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg)$ {
+        expires max;
+        log_not_found off;
+    }
+}
+```
+
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 ## 使用示例
