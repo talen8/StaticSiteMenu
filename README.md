@@ -14,7 +14,7 @@
     <a href="https://github.com/talen8/StaticSiteMenu"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://staticsitemenu-demo.talen.top/">查看演示 🎯</a>
+    <a href="https://menu.talen.top/">查看演示 🎯</a>
     &middot;
     <a href="https://github.com/talen8/StaticSiteMenu/issues/new?labels=bug&template=bug-report---.md">Bug 报告 🐞</a>
     &middot;
@@ -185,8 +185,7 @@ server {
 
 |    网站名称    |                                                                               网站地址                                                                               | 说明 |
 | :------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
-|    FlecMENU    |                                                           [https://menu.talen.top](https://menu.talen.top)                                                           | 生产 |
-| StaticSiteMenu-Demo | [https://staticsitemenu-demo.pages.dev/](https://staticsitemenu-demo.pages.dev/)<br>[https://staticsitemenu-demo.talen.top/](https://staticsitemenu-demo.talen.top/) | 演示 |
+|    FlecMENU    |                                                           [https://menu.talen.top](https://menu.talen.top)                                                           | 默认 |
 
 上方展示使用本项目的网站演示或复刻项目，如果你想在上方展示，请点击 <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=submit-site---.md">此处提交</a>。
 
